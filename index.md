@@ -10,6 +10,8 @@ Physicist, Mathematician, Cambridge professor.
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
+## Experience
+
 
 ## Currently
 
@@ -30,7 +32,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 `1654-1660`
 __The King's School, Grantham.__
 
-`June 1661 - now`
+`June 1661 - Present`
 __Trinity College, Cambridge__
 
 - Sizar
@@ -46,6 +48,8 @@ __Trinity College, Cambridge__
 
 `2012`
 President, *Royal Society*, London, UK
+- description 
+> test
 
 Associate, *French Academy of Science*, Paris, France
 
