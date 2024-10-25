@@ -37,6 +37,8 @@ __Trinity College, Cambridge__
 
 - Sizar
 
+- why is not working
+
 `1667 - death`
 __Trinity College, Cambridge__
 
@@ -48,7 +50,9 @@ __Trinity College, Cambridge__
 
 `2012`
 President, *Royal Society*, London, UK
+
 - description 
+
 > test
 
 Associate, *French Academy of Science*, Paris, France
